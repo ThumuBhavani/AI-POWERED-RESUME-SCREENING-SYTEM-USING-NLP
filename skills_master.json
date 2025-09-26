@@ -1,0 +1,7 @@
+{
+  "programming": ["python", "java", "c++"],
+  "databases": ["mysql", "postgresql", "sql server", "mongodb"],
+  "ml_ai": ["pandas", "numpy", "scikit-learn", "tensorflow", "pytorch", "nlp", "spacy"],
+  "viz": ["tableau", "power bi", "matplotlib", "seaborn"],
+  "cloud": ["aws", "azure", "gcp"]
+}
